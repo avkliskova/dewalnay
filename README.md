@@ -7,7 +7,7 @@
 ## Synopsis
 
     dewalnay.py -w 1920 -h 1080 -l '#c8a2c8' -r '#8c0035' -a 30 dewalnay.png
-![Generated image](dewalnay.png)
+![Generated image](examples/dewalnay.png)
 
 
 ## Command-line options
